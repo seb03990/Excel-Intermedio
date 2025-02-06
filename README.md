@@ -1,4 +1,4 @@
-📊 **Excel Intermedio - Aprendizaje y Proyectos**
+# 📊 **Excel Intermedio - Aprendizaje y Proyectos**
 
 Este repositorio contiene mis avances en Excel intermedio, basados en el curso de El Tío Tech. Aquí documentaré ejercicios, proyectos y recursos útiles para consolidar mi aprendizaje.
 
